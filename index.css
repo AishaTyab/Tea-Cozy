@@ -1,0 +1,137 @@
+body{
+    font-family: helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: horizantal;
+    position: relative;
+    top: 69px;
+    
+  }
+  header {
+    font-family: helvetica;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: horizantal;
+    
+    background-position: left;
+    height: 69px;
+    position: fixed;
+    border-bottom: 1px solid seashell;
+    width: 100%;
+    top: 0px;
+  }
+  
+  
+  
+  
+    
+  
+  
+    li{
+      display: inline;
+      text-align: right;
+    text-decoration: underline;
+      
+    }
+  .container{
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*1mjfv9e*_ga*MTg2NjQwODA3MS4xNjU5ODIzOTE0*_ga_3LRZM6TM9L*MTY2NDEzMzM1MS43Ni4xLjE2NjQxMzYyNzAuNTguMC4");
+    
+    
+    height: 700px;
+    width: 1200px;
+    margin: 0 auto;
+    
+  
+   
+  }
+  .banner{
+    background-color: black;
+    position: relative;
+    top: 300px;
+    width: 100%;
+    text-align: center;
+    
+  }
+  .logo{
+    height: 50px;
+  }
+  ul{
+    position: fixed;
+    right: 0;
+    top: 0px;
+  }
+  h2{
+    text-align: center;
+  }
+  h3{
+    text-align: center;
+  }
+  .Tea{
+    width: 300px;
+    height: 200px;
+    
+  }
+  .Pics{
+    display: inline-flex;
+    
+    flex-wrap: wrap;
+    justify-content: center;
+    
+  }
+  .Pics5{
+    margin: 10px;
+    text-align: center;
+  }
+  .container2{
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*1mjfv9e*_ga*MTg2NjQwODA3MS4xNjU5ODIzOTE0*_ga_3LRZM6TM9L*MTY2NDEzMzM1MS43Ni4xLjE2NjQxMzYyNzAuNTguMC4w);
+    
+  }
+  .banner{
+    
+    
+    flex-wrap: wrap;
+    justify-content: center;
+    display: inline-block;
+    border: 1px solid LightGrey;
+  }
+  .Downtown{
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: inline-block;
+    border: 1px solid LightGrey;
+    width: 300px;
+    height: 300px;
+    opacity: 1;
+    margin: 40px;
+  }
+  .Oak{
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: inline-block;
+    border: 1px solid LightGrey;
+    width: 300px;
+    height: 300px;
+    opacity: 1;
+    margin: 40px;
+  }
+  .East{
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: inline-block;
+    border: 1px solid LightGrey;
+    width: 300px;
+    height: 300px;
+    opacity: 1;
+    margin: 40px;
+  }
+  .contact{
+    text-align: center;
+  }
+  
+  
